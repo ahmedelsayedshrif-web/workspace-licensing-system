@@ -1,0 +1,24 @@
+{
+  "client-1763799683980-54dnmlv8": {
+    "clientId": "client-1763799683980-54dnmlv8",
+    "clientName": "عميل تجريبي - Test Client",
+    "hardwareId": "",
+    "licenseKey": "cb9ec11d93aad3f598a30938404810baf3518d1463cbf749607d5628cb20c468076df3e069c6c106eb7ee25fa3bb991fJ7IoZt8GYw27g10wGKK4Rmr4wmS+AayYO5H3ybAa9k08V+8kk6fQ7L1EafMHaV6D",
+    "status": "inactive",
+    "subscriptionStartDate": null,
+    "subscriptionEndDate": null,
+    "subscriptionDuration": 30,
+    "features": {
+      "bookings": true,
+      "employees": true,
+      "products": true,
+      "reports": true,
+      "settings": true
+    },
+    "createdAt": "2025-11-22T08:21:23.981Z",
+    "updatedAt": "2025-11-22T08:21:24.344Z",
+    "activatedAt": null,
+    "lastCheck": null,
+    "deviceInfo": {}
+  }
+}
