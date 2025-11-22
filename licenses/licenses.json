@@ -158,5 +158,32 @@
     "lastSeen": "2025-11-22T12:43:30.803Z",
     "createdAt": "2025-11-22T12:43:30.046Z",
     "updatedAt": "2025-11-22T13:02:47.450Z"
+  },
+  "client-1763816065012-u41f9w2q": {
+    "clientId": "client-1763816065012-u41f9w2q",
+    "clientName": "عميل emp-1763",
+    "hardwareId": "emp-1763815559968-23996n6h",
+    "licenseKey": "4622542cca4773c4b2ac861b6f91087c0af100045aa30466930722f3a4a2cfc49f4be0eecd02ab2cc03cfba31ac2d077YRYv5BFb29ggloBSBI9V2tSk7sk3wwIFQuxQn0wEIGf6nCXLx6rn0XpD5HlXKbp6",
+    "status": "inactive",
+    "subscriptionStartDate": "2025-11-22T12:54:25.125Z",
+    "subscriptionEndDate": "2025-12-22T12:54:25.125Z",
+    "subscriptionDuration": 30,
+    "features": {
+      "bookings": true,
+      "employees": true,
+      "products": true,
+      "reports": true,
+      "settings": true
+    },
+    "deviceInfo": {
+      "hardwareId": "emp-1763815559968-23996n6h",
+      "lastSeen": "2025-11-22T12:54:25.252Z",
+      "activatedAt": "2025-11-22T12:54:25.125Z"
+    },
+    "activatedAt": "2025-11-22T12:54:25.125Z",
+    "lastActivated": "2025-11-22T12:54:25.125Z",
+    "lastSeen": "2025-11-22T12:54:25.252Z",
+    "createdAt": "2025-11-22T12:54:25.125Z",
+    "updatedAt": "2025-11-22T13:03:12.773Z"
   }
 }
