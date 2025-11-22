@@ -69,9 +69,9 @@
     "clientId": "client-1763808548382-2l7v2x1f",
     "clientName": "عميل temp-176",
     "hardwareId": "temp-1763807804856-q2ju39zv",
-    "status": "inactive",
-    "subscriptionStartDate": "2025-11-22T10:49:08.382Z",
-    "subscriptionEndDate": "2025-12-22T10:49:08.382Z",
+    "status": "active",
+    "subscriptionStartDate": "2025-11-22T11:10:58.927Z",
+    "subscriptionEndDate": "2025-12-22T11:10:58.927Z",
     "features": {
       "bookings": true,
       "employees": true,
@@ -80,6 +80,9 @@
       "settings": true
     },
     "licenseKey": "e29fdbfb8b9804a8d7894431bf5c8de38e165d0334b86b8f49507fd1189719fb8e5ebeccaddd1a19743561dae9a46715ZXEjm5UN+BXQZgUGvaUHsDE0vFkn/lz/4yvWrt/1paUpNpmPhnPxZ95bbtfpdCcq",
-    "updatedAt": "2025-11-22T11:07:44.175Z"
+    "updatedAt": "2025-11-22T11:10:58.930Z",
+    "activatedAt": "2025-11-22T11:10:58.927Z",
+    "lastCheck": "2025-11-22T11:10:58.927Z",
+    "deviceInfo": {}
   }
 }
