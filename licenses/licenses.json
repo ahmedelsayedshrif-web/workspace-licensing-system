@@ -26,7 +26,7 @@
     "clientName": "تيست",
     "hardwareId": "",
     "licenseKey": "2adf8bd4420d536bfc0a12fde9f1252cc2acf2139938f6e9345c32c9e2f77dc958a117991b8d4048e4f1beabb485d2e4zBujgnih6YJifzL5ZUFetzVOt02FoJblrUzeSAVThm+Ka05u/0PB207Pasb9UrzT",
-    "status": "active",
+    "status": "inactive",
     "subscriptionStartDate": "2025-11-22T11:00:47.150Z",
     "subscriptionEndDate": "2025-12-22T11:00:47.150Z",
     "subscriptionDuration": 30,
@@ -38,7 +38,7 @@
       "settings": true
     },
     "createdAt": "2025-11-22T08:34:36.111Z",
-    "updatedAt": "2025-11-22T11:00:47.154Z",
+    "updatedAt": "2025-11-22T11:01:08.307Z",
     "activatedAt": "2025-11-22T11:00:47.150Z",
     "lastCheck": "2025-11-22T11:00:47.150Z",
     "deviceInfo": {}
