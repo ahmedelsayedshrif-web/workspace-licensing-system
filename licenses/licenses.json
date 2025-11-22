@@ -106,5 +106,27 @@
     "activatedAt": "2025-11-22T09:53:34.668Z",
     "lastCheck": "2025-11-22T09:53:34.668Z",
     "deviceInfo": {}
+  },
+  "client-1763813448909-u1jfstgb": {
+    "clientId": "client-1763813448909-u1jfstgb",
+    "clientName": "تتتت",
+    "hardwareId": "",
+    "licenseKey": "57a380e2b83575444630af8c53edf50f1d9f90a1b15a6268ff6d3baad9b80cb12cc961937ccc99e2c5d750da126d8e313Kl9GYoS0utq6LfJH3DaGLFyDERRmfqLY/dZ+62v700jmreObzg9vMn4lQHhYtwU",
+    "status": "inactive",
+    "subscriptionStartDate": null,
+    "subscriptionEndDate": null,
+    "subscriptionDuration": 30,
+    "features": {
+      "bookings": true,
+      "employees": true,
+      "products": true,
+      "reports": true,
+      "settings": true
+    },
+    "createdAt": "2025-11-22T12:10:48.909Z",
+    "updatedAt": "2025-11-22T12:10:49.017Z",
+    "activatedAt": null,
+    "lastCheck": null,
+    "deviceInfo": {}
   }
 }
