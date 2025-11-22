@@ -4,7 +4,7 @@
     "clientName": "عميل تجريبي - Test Client",
     "hardwareId": "",
     "licenseKey": "cb9ec11d93aad3f598a30938404810baf3518d1463cbf749607d5628cb20c468076df3e069c6c106eb7ee25fa3bb991fJ7IoZt8GYw27g10wGKK4Rmr4wmS+AayYO5H3ybAa9k08V+8kk6fQ7L1EafMHaV6D",
-    "status": "active",
+    "status": "inactive",
     "subscriptionStartDate": "2025-11-22T08:22:29.655Z",
     "subscriptionEndDate": "2025-12-22T08:22:29.655Z",
     "subscriptionDuration": 30,
@@ -16,7 +16,7 @@
       "settings": true
     },
     "createdAt": "2025-11-22T08:21:23.981Z",
-    "updatedAt": "2025-11-22T08:22:29.664Z",
+    "updatedAt": "2025-11-22T11:01:09.441Z",
     "activatedAt": "2025-11-22T08:22:29.655Z",
     "lastCheck": "2025-11-22T08:22:29.655Z",
     "deviceInfo": {}
