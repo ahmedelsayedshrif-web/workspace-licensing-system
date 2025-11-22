@@ -84,5 +84,27 @@
     "activatedAt": "2025-11-22T11:17:17.838Z",
     "lastCheck": "2025-11-22T11:17:17.838Z",
     "deviceInfo": {}
+  },
+  "client-1763803033198-aatart7o": {
+    "clientId": "client-1763803033198-aatart7o",
+    "clientName": "عميل تجريبي - Test Client",
+    "hardwareId": "",
+    "licenseKey": "480b32d2ceb42d5765dc37f31ad2713e0a06ecefc470001f84d0c4ef31526b69d1b9f239e986f6053810aa934a9c87caqRzhh4MrUn8ziJnxO3k1WTg7ghFm4pWqPtQttRI3UIgpxH8WBvXKdBUYDNn2mQq/",
+    "status": "inactive",
+    "subscriptionStartDate": "2025-11-22T09:53:34.668Z",
+    "subscriptionEndDate": "2025-12-22T09:53:34.668Z",
+    "subscriptionDuration": 30,
+    "features": {
+      "bookings": true,
+      "employees": true,
+      "products": true,
+      "reports": true,
+      "settings": true
+    },
+    "createdAt": "2025-11-22T09:17:13.199Z",
+    "updatedAt": "2025-11-22T11:52:31.837Z",
+    "activatedAt": "2025-11-22T09:53:34.668Z",
+    "lastCheck": "2025-11-22T09:53:34.668Z",
+    "deviceInfo": {}
   }
 }
