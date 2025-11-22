@@ -42,5 +42,27 @@
     "activatedAt": "2025-11-22T10:03:31.291Z",
     "lastCheck": "2025-11-22T10:03:31.291Z",
     "deviceInfo": {}
+  },
+  "client-1763806187529-hxvqssvy": {
+    "clientId": "client-1763806187529-hxvqssvy",
+    "clientName": "عبدالله",
+    "hardwareId": "temp-1763804379467-cofwx9lu",
+    "licenseKey": "684efc6bbc1a1c74ba651c4b13ce218339e5e8c6f1f150e572b525ac2bc5ae2eb0274ecb66d59c8d0970f3e915dced77JAb9/ty+NOMtHHWP7saomtEMUrX4zU8+K5F3HlRNZFlNA9CDdclXmNqDIvBOpwmm",
+    "status": "inactive",
+    "subscriptionStartDate": null,
+    "subscriptionEndDate": null,
+    "subscriptionDuration": 30,
+    "features": {
+      "bookings": true,
+      "employees": true,
+      "products": true,
+      "reports": true,
+      "settings": true
+    },
+    "createdAt": "2025-11-22T10:09:47.530Z",
+    "updatedAt": "2025-11-22T10:09:48.073Z",
+    "activatedAt": null,
+    "lastCheck": null,
+    "deviceInfo": {}
   }
 }
